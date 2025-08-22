@@ -1,6 +1,6 @@
 ## Preview
 
-![video](assets/mana_tick.mp4)
+<video src="https://github.com/user-attachments/assets/61ebc199-f575-4900-b087-2ac57a4bc382" />
 
 ## Description
 
